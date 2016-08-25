@@ -1,0 +1,8 @@
+[Desktop Entry]
+_Name=FaceSwap
+Exec=qmlscene %U FaceSwap/Main.qml
+Icon=FaceSwap/FaceSwap.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+

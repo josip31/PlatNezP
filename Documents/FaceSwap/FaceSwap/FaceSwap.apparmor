@@ -1,0 +1,8 @@
+{
+    "policy_groups": [
+        "networking",
+        "camera",
+        "picture_files"
+    ],
+    "policy_version": 1.3
+}
