@@ -1,3 +1,0 @@
-module FaceSwap
-plugin FaceSwapbackend
-typeinfo faceswap.qmltypes
